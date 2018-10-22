@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5433AF0E-A41B-44A2-8BF7-8AABC87CF749}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExemploWebRequest/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ExemploWebRequest/MainPage.xaml" Line="12" Column="31" />
+      <File FileName="ExemploWebRequest/MainPage.xaml.cs" Line="39" Column="37" />
+      <File FileName="ExemploWebRequest/ListagemFotos.cs" Line="10" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExemploWebRequest.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExemploWebRequest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.88DDBE86-7108-49E9-A887-4BCE22A1C2C8" />
+</Properties>

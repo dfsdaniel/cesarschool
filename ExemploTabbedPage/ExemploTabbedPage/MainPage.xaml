@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" 
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+            xmlns:local="clr-namespace:ExemploTabbedPage" 
+            x:Class="ExemploTabbedPage.MainPage">
+
+
+    <local:Pagina1 Title="PÁGINA 1" Icon="ic_alarm.png" />
+    <local:Pagina2 Title="PÁGINA 2" />
+
+    <NavigationPage Title="PÁGINA 3">
+        <x:Arguments>
+            <local:Pagina1 />        
+        </x:Arguments>    
+    </NavigationPage>
+
+    <TabbedPage Title="PÁGINA 4">
+        <local:Pagina1 Title="SUB MENU 1" />
+        <local:Pagina2 Title="SUB MENU 2" />
+    </TabbedPage>
+
+    <CarouselPage Title="PÁGINA 5">
+        <local:Pagina1 />
+        <local:Pagina2 />
+    </CarouselPage>
+</TabbedPage>

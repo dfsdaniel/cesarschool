@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{53972906-8FA3-473D-AA4D-2FF7CD429269}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExercicioSom.iOS/SoundManager.cs">
+    <Files>
+      <File FileName="ExercicioSom/MainPage.xaml" Line="6" Column="15" />
+      <File FileName="ExercicioSom/MainPage.xaml.cs" Line="19" Column="56" />
+      <File FileName="ExercicioSom/IAudioManager.cs" Line="6" Column="21" />
+      <File FileName="ExercicioSom.Android/AudioManager.cs" Line="18" Column="13" />
+      <File FileName="ExercicioSom.iOS/SoundManager.cs" Line="21" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ExercicioSom.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExercicioSom.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.88DDBE86-7108-49E9-A887-4BCE22A1C2C8" />
+  <MultiItemStartupConfigurations />
+</Properties>

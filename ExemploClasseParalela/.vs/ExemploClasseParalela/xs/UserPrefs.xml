@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{C89F02EC-6820-4315-9D53-ED86800D0510}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExemploClasseParalela/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ExemploClasseParalela/MainPage.xaml" Line="6" Column="32" />
+      <File FileName="ExemploClasseParalela.Android/SOInfo.cs" Line="6" Column="19" />
+      <File FileName="ExemploClasseParalela.iOS/SOInfo.cs" Line="12" Column="1" />
+      <File FileName="ExemploClasseParalela/MainPage.xaml.cs" Line="15" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExemploClasseParalela.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.ExemploClasseParalela.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.88DDBE86-7108-49E9-A887-4BCE22A1C2C8" />
+  <MultiItemStartupConfigurations />
+</Properties>

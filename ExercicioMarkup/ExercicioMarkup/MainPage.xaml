@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:local="clr-namespace:ExercicioMarkup" 
+    x:Class="ExercicioMarkup.MainPage"
+    Title="Página 1">
+
+    <ContentPage.Resources>
+   
+        
+    </ContentPage.Resources>
+    
+    <StackLayout BackgroundColor="{StaticResource corFundo}">
+        <Label Text="Você está na Página 1" 
+               HorizontalOptions="{Static local:Constantes.Alinhamento}"
+               FontAttributes="{Static local:Constantes.Estilo}"
+               VerticalOptions="Center" />
+        <Button Text="Ir para Página 2" Clicked="Handle_Clicked" />
+    </StackLayout>
+</ContentPage>

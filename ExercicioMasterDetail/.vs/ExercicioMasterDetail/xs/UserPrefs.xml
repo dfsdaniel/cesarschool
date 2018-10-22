@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{57DB817C-9387-4BEE-998F-B8C819564A5A}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExercicioMasterDetail.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExercicioMasterDetail/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ExercicioMasterDetail/MainPage.xaml" Line="18" Column="20" />
+      <File FileName="ExercicioMasterDetail/MainPage.xaml.cs" Line="29" Column="27" />
+      <File FileName="ExercicioMasterDetail/MasterPage.xaml" Line="12" Column="1" />
+      <File FileName="ExercicioMasterDetail/MasterPage.xaml.cs" Line="21" Column="25" />
+      <File FileName="ExercicioMasterDetail/FotosPage.xaml" Line="9" Column="1" />
+      <File FileName="ExercicioMasterDetail/FotosPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ExercicioMasterDetail/CalendarioPage.xaml" Line="9" Column="1" />
+      <File FileName="ExercicioMasterDetail/CalendarioPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ExercicioMasterDetail/ConfigPage.xaml" Line="8" Column="1" />
+      <File FileName="ExercicioMasterDetail/ConfigPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ExercicioMasterDetail/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExercicioMasterDetail.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.88DDBE86-7108-49E9-A887-4BCE22A1C2C8" />
+  <MultiItemStartupConfigurations />
+</Properties>

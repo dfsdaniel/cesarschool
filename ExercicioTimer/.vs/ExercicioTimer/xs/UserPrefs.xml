@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{33B7CFC5-967F-4F0D-9D63-DEA0FABEFA12}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExercicioTimer/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ExercicioTimer/MainPage.xaml" Line="8" Column="11" />
+      <File FileName="ExercicioTimer/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" Line="17" Column="34" />
+      <File FileName="ExercicioTimer/MainPage.xaml.cs" Line="13" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExercicioTimer.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.88DDBE86-7108-49E9-A887-4BCE22A1C2C8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExercicioTimer.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MultiItemStartupConfigurations />
+</Properties>

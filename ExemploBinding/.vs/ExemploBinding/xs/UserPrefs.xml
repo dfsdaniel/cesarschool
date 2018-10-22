@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{1E0FA2AD-55A9-4DC0-BFAA-A8AA00F03467}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExemploBinding/MainPage.xaml">
+    <Files>
+      <File FileName="ExemploBinding/MainPage.xaml" Line="14" Column="41" />
+      <File FileName="ExemploBinding/MainPage.xaml.cs" Line="32" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExemploBinding.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.88DDBE86-7108-49E9-A887-4BCE22A1C2C8" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ExemploBinding.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

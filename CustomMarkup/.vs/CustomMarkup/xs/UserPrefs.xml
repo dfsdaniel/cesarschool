@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{AF78586B-91EA-41F4-9157-0844E604EEE4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomMarkup/MainPage.xaml">
+    <Files>
+      <File FileName="CustomMarkup/MainPage.xaml" Line="9" Column="49" />
+      <File FileName="CustomMarkup/MinhaCorExtension.cs" Line="29" Column="10" />
+      <File FileName="MinhaLib/CorRGBExtension.cs" Line="5" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CustomMarkup.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CustomMarkup.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.88DDBE86-7108-49E9-A887-4BCE22A1C2C8" />
+  <MultiItemStartupConfigurations />
+</Properties>

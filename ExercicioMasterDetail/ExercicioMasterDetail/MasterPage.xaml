@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="ExercicioMasterDetail.MasterPage"
+             Title="Menu">
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <Button x:Name="btFotos" StyleId="fotos" Text="FOTOS" Image="ic_camera.png" />
+        <Button x:Name="btCalendario" StyleId="calendario" Text="CALENDARIO" Image="ic_date.png" />
+        <Button x:Name="btConfig" StyleId="config" Text="CONFIG" Image="ic_build.png" />
+    </StackLayout>
+</ContentPage>

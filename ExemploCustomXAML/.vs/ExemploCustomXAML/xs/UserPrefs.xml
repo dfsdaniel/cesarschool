@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{2318A017-2C03-4C6C-B057-B2B3FD476732}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExemploCustomXAML.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MeusControles.Android FirstBuild="True" HideGettingStarted="True" />
+  <MonoDevelop.Ide.ItemProperties.MeusControles.Shared FirstBuild="True" HideGettingStarted="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controles/MyClass.cs">
+    <Files>
+      <File FileName="ExemploCustomXAML/MainPage.xaml" Line="10" Column="22" />
+      <File FileName="ExemploCustomXAML/Contato.xaml" Line="7" Column="21" />
+      <File FileName="ExemploCustomXAML/Contato.xaml.cs" Line="32" Column="29" />
+      <File FileName="Controles/MyClass.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExemploCustomXAML.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.88DDBE86-7108-49E9-A887-4BCE22A1C2C8" />
+  <MonoDevelop.Ide.ItemProperties.Controles FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MeusControles.NuGet FirstBuild="True" HideGettingStarted="True" />
+  <MonoDevelop.Ide.ItemProperties.MeusControles.iOS FirstBuild="True" HideGettingStarted="True" />
+</Properties>

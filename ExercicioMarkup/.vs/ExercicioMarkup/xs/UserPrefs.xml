@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{93DF8932-F60C-40BD-B7C8-919C3B2A967F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExercicioMarkup/MainPage.xaml">
+    <Files>
+      <File FileName="ExercicioMarkup/MainPage.xaml" Line="7" Column="11" />
+      <File FileName="ExercicioMarkup/MainPage.xaml.cs" Line="17" Column="28" />
+      <File FileName="ExercicioMarkup/App.xaml.cs" Line="14" Column="58" />
+      <File FileName="ExercicioMarkup/Constantes.cs" Line="4" Column="26" />
+      <File FileName="ExercicioMarkup/Pagina2.xaml" Line="8" Column="46" />
+      <File FileName="ExercicioMarkup/Pagina2.xaml.cs" Line="14" Column="9" />
+      <File FileName="ExercicioMarkup/App.xaml" Line="12" Column="15" />
+      <File FileName="ExercicioMarkup/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" Line="22" Column="1" />
+      <File FileName="ExercicioMarkup.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExercicioMarkup.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.88DDBE86-7108-49E9-A887-4BCE22A1C2C8" />
+  <MonoDevelop.Ide.ItemProperties.ExercicioMarkup.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+</Properties>

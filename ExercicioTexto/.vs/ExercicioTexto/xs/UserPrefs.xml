@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{48336F35-4243-4446-B079-260395C7B11C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExercicioTexto/MainPage.cs">
+    <Files>
+      <File FileName="ExercicioTexto/App.xaml.cs" Line="14" Column="36" />
+      <File FileName="ExercicioTexto/MainPage.cs" Line="27" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ExercicioTexto.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.88DDBE86-7108-49E9-A887-4BCE22A1C2C8" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExercicioTexto.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>

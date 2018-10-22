@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{AEB35E52-FEDA-4D34-AF05-B3845FD54D9D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExercicioLabelCores/Page2.xaml">
+    <Files>
+      <File FileName="ExercicioLabelCores/MainPage.cs" Line="23" Column="50" />
+      <File FileName="ExercicioLabelCores/ExibeCor.xaml" Line="2" Column="14" />
+      <File FileName="ExercicioLabelCores/ExibeCor.xaml.cs" Line="9" Column="30" />
+      <File FileName="ExercicioLabelCores/Page2.xaml" Line="6" Column="41" />
+      <File FileName="ExercicioLabelCores/Page2.xaml.cs" Line="1" Column="1" />
+      <File FileName="ExercicioLabelCores/App.xaml.cs" Line="14" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExercicioLabelCores.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.88DDBE86-7108-49E9-A887-4BCE22A1C2C8" />
+  <MonoDevelop.Ide.ItemProperties.ExercicioLabelCores.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>

@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{C4872F77-C8E9-44C8-882D-AE7A94A93E25}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExemploBD.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.88DDBE86-7108-49E9-A887-4BCE22A1C2C8" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExemploBD/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ExemploBD/MainPage.xaml" Line="5" Column="14" />
+      <File FileName="ExemploBD/Aluno.cs" Line="9" Column="53" />
+      <File FileName="ExemploBD/App.xaml.cs" Line="11" Column="15" />
+      <File FileName="ExemploBD/IDatabasePath.cs" Line="6" Column="26" />
+      <File FileName="ExemploBD.Android/BDPath.cs" Line="6" Column="1" />
+      <File FileName="ExemploBD.iOS/BDPath.cs" Line="14" Column="57" />
+      <File FileName="ExemploBD/MainPage.xaml.cs" Line="29" Column="10" />
+      <File FileName="ExemploBD/App.xaml" Line="5" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExemploBD.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

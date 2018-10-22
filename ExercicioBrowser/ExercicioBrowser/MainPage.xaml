@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:ExercicioBrowser"
+             x:Class="ExercicioBrowser.MainPage"
+             Padding="30">
+    <StackLayout>
+        <Entry Keyboard="Url"
+               x:Name="txtUrl"
+               Placeholder="Digite a URL"
+               Completed="Handle_Completed" />
+
+        <StackLayout Orientation="Horizontal"
+                     BindingContext="{x:Reference areaBrowser}">
+            <Button x:Name="btVoltar" Text="Voltar" 
+                    IsEnabled="{Binding CanGoBack}"
+                    HorizontalOptions="CenterAndExpand"
+                    Clicked="BtVoltar_Clicked"/>
+            <Button x:Name="btAvancar" Text="Avançar"
+                    IsEnabled="{Binding CanGoForward}"
+                    Clicked="BtAvancar_Clicked"
+                    HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+
+        <WebView x:Name="areaBrowser" VerticalOptions="FillAndExpand"
+                Source="http://www.globoesporte.com"/>
+    </StackLayout>
+</ContentPage>
